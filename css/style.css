@@ -732,6 +732,8 @@ figure {
   display: table;
   overflow: hidden;
 }
+
+
 @media screen and (max-width: 768px) {
   .work {
     height: 400px;
